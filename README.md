@@ -18,5 +18,7 @@ front end project using reactjs@APSSDC
     1. whole numbers
     2. integers
     3. natural numbers
+
+![taj mahal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFzpfyb4dbcaSOUzsaxcSqn6CPhTkVMb4Aw&usqp=CAU)
   
     
